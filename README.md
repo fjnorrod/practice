@@ -1,2 +1,2 @@
 # practice
-This is a practice project for GitHub.
+This is a practice branch for GitHub.
